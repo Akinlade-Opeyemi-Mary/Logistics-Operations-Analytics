@@ -100,6 +100,7 @@ This dashboard investigates delivery performance across **routes, facilities, an
 **Key Insight:**  
 > Service underperformance is not isolated to a single route or customer. Delivery delays and detention occur across the network, while specific routes and facilities provide clear areas for targeted operational intervention.
 
+![Service & Route Performance Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Logistics-Operations-Analytics/blob/9f9b49ea93e54b1bd49b791a2867ba59b44fabbe/SERVICE%20ROUTE%20PERFORMANCE%20DASHBORD.png?raw=true)
 ---
 
 ## 3. Driver & Fleet Performance
@@ -123,6 +124,7 @@ The Driver & Fleet dashboard evaluates **driver efficiency, fuel performance, sa
 **Key Insight:**  
 > Driver and fleet performance is not uniform. Specific drivers and assets account for disproportionate levels of idle time, maintenance expenditure, downtime, and safety exposure, creating opportunities for targeted performance management.
 
+![Driver & Fleet Performance Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Logistics-Operations-Analytics/blob/0a1bd7300f16ee6a8f0207ee6cf7bf0ab5b321dd/DRIVER%20%26%20FLEET%20DASHBORD.png?raw=true)
 ---
 
 ## 4. Financial Impact
