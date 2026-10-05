@@ -77,7 +77,7 @@ The Executive Overview provides a high-level view of the network's **commercial 
 **Key Insight:**  
 > Strong revenue and shipment activity are being achieved alongside consistently weak delivery reliability, creating a need to investigate where service underperformance is concentrated.
 
-![Executive Overview Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Logistics-Operations-Analytics/blob/d6cd00745eeeab6c0b690855e5da5afa656749f9/EXCEUTIVE%20OVERVIEW%20DASHBORD.png?raw=true)
+![Executive Overview Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Logistics-Operations-Analytics/blob/c7a803b64b8224a80c209a720c7b5639c4066ddc/EXCEUTIVE%20OVERVIEW%20DASHBORD.png)
 ---
 
 ## 2. Service & Route Performance
