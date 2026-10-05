@@ -148,3 +148,47 @@ The Financial Impact dashboard connects the operational findings to their financ
 
 **Key Insight:**  
 > Financial performance is most exposed to fuel expenditure and wider operational inefficiencies. Improving route efficiency, reducing excessive idle time, addressing detention, and targeting high-cost fleet assets provide the clearest opportunities to strengthen operating contribution.
+
+![Financial Impact Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Logistics-Operations-Analytics/blob/918ddad9f0cdc2fcbe36579b15df524a9b61d170/FINANCIAL%20IMPACT%20DASHBORD.png?raw=true)
+
+# Strategic Recommendations
+
+Based on the combined analysis, management action should concentrate on four areas:
+
+**1. Reduce Fuel Exposure**  
+Fuel represents approximately **90% of identified operating costs**. Prioritise route efficiency, MPG monitoring and excessive driver idle time to reduce fuel expenditure.
+
+**2. Protect Service Revenue**  
+With approximately **55% of deliveries arriving late**, prioritise service improvements for high-revenue customers and consistently weak-performing routes. This protects commercially important relationships while improving network reliability.
+
+**3. Target Fleet Costs**  
+Prioritise trucks with the highest maintenance expenditure and downtime rather than treating the fleet uniformly. Asset-level maintenance intervention can reduce downtime and unnecessary operating expenditure.
+
+**4. Reduce Detention**  
+Focus operational reviews on facilities generating the highest detention burden. With detention affecting approximately **89% of deliveries**, improvements in facility turnaround and scheduling represent a major operational opportunity.
+
+---
+
+# Key Strategic Insight
+
+> **The central challenge is not generating activity — it is converting that activity into efficient and reliable service.**
+
+The logistics operation generated more than **$262M in revenue** and processed approximately **85K loads**, yet only **44.61% of deliveries arrived on time**.
+
+At the same time, fuel dominates the identifiable cost structure, driver idle time remains substantial, and maintenance costs and downtime are concentrated among specific fleet assets.
+
+The analysis therefore suggests that improving financial performance does not necessarily require increasing shipment volume first.
+
+The stronger opportunity is to **extract greater value from existing operations** by improving delivery reliability, reducing fuel inefficiency and idle time, addressing high-detention facilities, and targeting underperforming fleet assets.
+
+---
+
+# Conclusion
+
+This project demonstrates how an interconnected logistics dataset can be transformed into a **decision-support system rather than a collection of isolated KPIs**.
+
+The analysis progressed from overall business performance to service reliability, route and facility performance, driver and fleet efficiency, and ultimately financial impact.
+
+The findings show a logistics operation with strong revenue generation but significant opportunities to improve **service reliability, fuel efficiency, detention, fleet maintenance and operational cost control**.
+
+By connecting these operational measures with financial outcomes, the Power BI solution enables management to move beyond simply identifying *what happened* toward understanding **where intervention is required and which actions should be prioritised**.
