@@ -192,3 +192,11 @@ The analysis progressed from overall business performance to service reliability
 The findings show a logistics operation with strong revenue generation but significant opportunities to improve **service reliability, fuel efficiency, detention, fleet maintenance and operational cost control**.
 
 By connecting these operational measures with financial outcomes, the Power BI solution enables management to move beyond simply identifying *what happened* toward understanding **where intervention is required and which actions should be prioritised**.
+
+## 👤 Author | Connect With Me
+
+**Akinlade Opeyemi Mary**  
+📊 Data Analyst | Business Intelligence | Credit Risk Analysis  
+
+🔗 **LinkedIn:** [Akinlade Opeyemi Mary](https://www.linkedin.com/in/opeyemiakinlademary)  
+📧 **Email:** akinladeopeyemi36@gmail.com
